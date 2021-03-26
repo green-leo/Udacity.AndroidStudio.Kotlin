@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lesson2. About Me</string>
+    <string name="name">Green</string>
+    <string name="avatar_img">Default avatar image</string>
+
+    <string name="bio">My name is Green, and you may not know that I can break four concrete blocks with one punch.
+\n\nLast month, I received my third-degree black belt in Tae Kwon Do.
+\nIn my 16 years of life, it’s my greatest accomplishment.
+\n\nI’ve been involved in martial arts since I was three.
+\nMy younger brother, Marcus, is also a martial artist, as are our parents.
+\nOur passions as a family are physical fitness and spending time together, which martial arts allows us to do.
+\nAfter graduation, I hope to become a martial arts instructor by majoring in kinesiology.
+\n\nThank you.\n\n</string>
+    <string name="what_is_your_nick_name">What is your nick name ?</string>
+    <string name="done">Done</string>
+
+</resources>
