@@ -12,8 +12,4 @@ You can take a look, and download it [here](https://docs.google.com/document/d/1
 
 ### What is inside this repository?
 Just the code based on the example projects in the course.
-My Android Studio's version is **4.1**, so it's a little different from the code of the course (their Android Studio version is 3.+) 
-
-
-### Where is the code?
-Hmm... It's a liitle inconvenience for you and it's my bad too. My code in the branch **master**, so you know what to do :)))
+My Android Studio's version is **4.1**, so it's a little different from the code of the course (their Android Studio version is **3.+**) 
