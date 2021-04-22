@@ -17,7 +17,7 @@ Dice Roller is a simple app that rolls a six sided die.
 
 
 
-### What can we learn from this lesson?
+## What can we learn from this lesson?
 * Setup Android Studio
 * Setup device or emulator
 * Basic app structure
